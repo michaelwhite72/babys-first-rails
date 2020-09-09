@@ -1,0 +1,5 @@
+#@hello
+{
+  messsage: "Hello There!!!",
+  random: @random
+}
